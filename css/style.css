@@ -94,7 +94,9 @@ body a:hover{
 }
 .header-right h6 {
     font-size: 1em;
-    color: #C7C7C7;
+    font-weight: 600;
+    color: #fff;
+    
     margin-top: 0.8em;
     letter-spacing: 6px;
 }
